@@ -71,12 +71,12 @@ a:hover { color: #008a9a; }
 }
 
 .navbar .nav-link {
-  color: rgba(255, 255, 255, .82);
+  color: rgba(255, 255, 255, .55);
 }
 
 .navbar .nav-link:hover,
 .navbar .nav-link.active {
-  color: var(--lt-teal-soft);
+  color: rgba(255, 255, 255, .75);
 }
 
 .blog-hero-content {
