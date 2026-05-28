@@ -191,14 +191,21 @@ a:hover { color: #008a9a; }
   line-height: 1.65;
 }
 
-.store-badge {
-  margin: .35rem 0 1rem;
-  min-height: 74px;
+.download-installer-btn {
+  background: var(--lt-teal);
+  border-radius: 999px;
+  color: #fff;
+  display: inline-block;
+  font-weight: 700;
+  margin: .25rem 0 1rem;
+  padding: .65rem 1.15rem;
+  text-decoration: none;
 }
 
-.store-badge ms-store-badge {
-  display: block;
-  max-width: 100%;
+.download-installer-btn:hover {
+  background: #008a9a;
+  color: #fff;
+  text-decoration: none;
 }
 
 .sidebar-link { display: block; }
