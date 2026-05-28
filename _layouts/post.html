@@ -10,6 +10,17 @@
     <div class="container py-5">
       <div class="row g-4 justify-content-center">
         <article class="col-lg-8">
+          <nav class="breadcrumbs" aria-label="Breadcrumb">
+            <ol>
+              <li><a href="https://lumotray.com/">LumoTray</a></li>
+              <li><a href="{{ '/' | relative_url }}">Blog</a></li>
+              {% if page.category %}
+              <li><a href="{{ '/' | append: page.category | append: '/' | relative_url }}">{{ page.category | capitalize }}</a></li>
+              {% endif %}
+              <li aria-current="page">{{ page.title | escape }}</li>
+            </ol>
+          </nav>
+
           <div class="content-card post-content">
             <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</p>
             <h1 class="post-title">{{ page.title | escape }}</h1>
