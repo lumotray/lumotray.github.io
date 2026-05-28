@@ -1,22 +1,20 @@
-<header class="site-header" role="banner">
-  <div class="wrapper">
-    <a class="site-title" href="{{ '/' | relative_url }}">
-      <span class="logo">🌿</span>
-      <span class="title-text">{{ site.title | escape }}</span>
-    </a>
-
-    <button class="nav-toggle" aria-label="Toggle navigation">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
-
-    <nav class="site-nav" aria-label="Main navigation">
-      <a class="nav-link" href="{{ '/' | relative_url }}">Home</a>
-      <a class="nav-link" href="{{ '/about/' | relative_url }}">About</a>
-      <a class="nav-link" href="{{ '/app/' | relative_url }}">App</a>
-      <a class="nav-link nav-link-external" href="https://github.com/LumoTray" target="_blank">GitHub</a>
-      <a class="nav-cta" href="https://apps.microsoft.com/detail/9nwsvm0n0dvc" target="_blank">Get LumoTray</a>
+<header class="site-header">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-dark">
+      <a class="navbar-brand" href="https://lumotray.com" target="_blank">
+        <img src="/assets/gfx/lumotray.png" alt="LumoTray" width="32" height="32">
+        <span class="ms-2 fw-semibold">LumoTray Blog</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#blogNav" aria-controls="blogNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="blogNav">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="https://lumotray.com" target="_blank">Home ↗</a>
+          </li>
+        </ul>
+      </div>
     </nav>
   </div>
 </header>
