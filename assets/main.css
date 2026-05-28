@@ -191,9 +191,14 @@ a:hover { color: #008a9a; }
   line-height: 1.65;
 }
 
-.sidebar-card .btn {
-  display: inline-block;
-  margin: .25rem 0 1rem;
+.store-badge {
+  margin: .35rem 0 1rem;
+  min-height: 74px;
+}
+
+.store-badge ms-store-badge {
+  display: block;
+  max-width: 100%;
 }
 
 .sidebar-link { display: block; }
