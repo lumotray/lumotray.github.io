@@ -1,0 +1,22 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      <span class="logo">🌿</span>
+      <span class="title-text">{{ site.title | escape }}</span>
+    </a>
+
+    <button class="nav-toggle" aria-label="Toggle navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav class="site-nav" aria-label="Main navigation">
+      <a class="nav-link" href="{{ '/' | relative_url }}">Home</a>
+      <a class="nav-link" href="{{ '/about/' | relative_url }}">About</a>
+      <a class="nav-link" href="{{ '/app/' | relative_url }}">App</a>
+      <a class="nav-link nav-link-external" href="https://github.com/LumoTray" target="_blank">GitHub</a>
+      <a class="nav-cta" href="https://apps.microsoft.com/detail/9nwsvm0n0dvc" target="_blank">Get LumoTray</a>
+    </nav>
+  </div>
+</header>
