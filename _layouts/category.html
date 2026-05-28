@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body class="blog-site">
+  {% include header.html %}
+
+  <main class="page-content">
+    <div class="container py-5">
+      <div class="row g-4">
+        <section class="col-lg-8">
+          <div class="section-heading">
+            <p class="eyebrow text-muted">Category</p>
+            <h2>{{ page.category | capitalize }}</h2>
+          </div>
+
+          <div class="post-list">
+            {% assign category_posts = site.categories[page.category] %}
+            {% for post in category_posts %}
+            <article class="post-card">
+              <a href="{{ post.url | relative_url }}" class="post-card-link">
+                <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+                <h3>{{ post.title | escape }}</h3>
+                <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 34 }}</p>
+                <span class="read-more">Read more →</span>
+              </a>
+            </article>
+            {% endfor %}
+          </div>
+        </section>
+
+        <aside class="col-lg-4">
+          {% include sidebar.html %}
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  {% include footer.html %}
+</body>
+</html>
