@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to the LumoTray Blog"
 date: 2026-05-28 13:00:00 +0100
-categories: lumotray update
+category: update
 ---
 
 Welcome to the official LumoTray blog. This will be the place for release notes, development updates, practical Windows 11 customization tips, and the occasional behind-the-scenes note about building a small desktop utility as a solo developer.
