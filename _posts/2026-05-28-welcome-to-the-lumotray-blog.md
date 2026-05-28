@@ -1,42 +1,48 @@
 ---
 layout: post
-title: "Welcome to the LumoTray Blog!"
+title: "Welcome to the LumoTray Blog"
 date: 2026-05-28 13:00:00 +0100
 categories: lumotray update
 ---
 
-Welcome to the official LumoTray blog — the place where we share what's new, share tips, and talk about making Windows 11 actually feel like yours.
+Welcome to the official LumoTray blog. This will be the place for release notes, development updates, practical Windows 11 customization tips, and the occasional behind-the-scenes note about building a small desktop utility as a solo developer.
 
 ## What is LumoTray?
 
-If you're here for the first time, here's the quick intro: **LumoTray** is a free, lightweight Windows 11 system tray app that gives you more control over the desktop without the bloat.
+LumoTray is a lightweight Windows 11 system tray app for people who want more control over their desktop without adding a heavy, complicated tool to their setup.
 
-Right now it includes:
+It currently includes:
 
-- **Custom Menu** — a personal launcher for your most-used apps and tools
-- **Wallpaper Manager** — set wallpapers across multiple monitors independently
-- **Lockscreen Manager** — customize what you see before you sign in
-- **Screensaver Modes** — bring back the classics, or get creative
-- **Hot Corners** — trigger actions by dragging your cursor to a screen corner
+- **Custom Menu** - build a personal tray menu for apps, files, folders, scripts, and nested shortcuts
+- **Wallpaper Manager** - control wallpapers across multiple monitors, including modes Windows does not handle well by default
+- **Lockscreen Manager** - customize the Windows lock screen with the same kind of wallpaper sources and modes
+- **Screensaver Modes** - bring back useful or fun screen effects in a modern setup
+- **Hot Corners** - trigger actions by moving the mouse to a screen corner
 
-It's free to download and fully functional. If you like it and want the weekly nag to go away (plus a little shout-out to your company or brand), there's a **$19 one-time license** to unlock everything. No subscriptions, no monthly fees — just a one-off.
+The app is free to download and fully functional. If you use it often, or use it in a business, there is a **$19 one-time license** that removes the weekly registration reminder and lets you add your name, alias, or company name inside the app.
 
-## Why a blog?
+No subscription. No monthly fee. Just a small way to support the project if LumoTray becomes part of your workflow.
 
-I built LumoTray as a solo project, and up until now there hasn't been a great place to share updates, release notes, or random thoughts about Windows 11 UX. That changes today.
+## Why start a blog?
 
-On this blog you'll find:
-- Release announcements
-- Tips and tricks you might not have figured out yet
-- Behind-the-scenes stuff about building tools people actually use
-- And yes, occasionally just thoughts that don't fit anywhere else
+A desktop app needs more than a download page. Features change, small improvements add up, and some parts of Windows customization are easier to understand with a short guide than with another checkbox in the app.
 
-## What's next?
+This blog gives LumoTray a proper place for:
 
-LumoTray is on **v2.0.5** and already doing a lot, but there's always more to explore. Keep an eye on this space for updates, and if you have ideas or feedback — I'd love to hear them.
+- Release notes and version highlights
+- Tips for using LumoTray more effectively
+- Explanations of new features and design decisions
+- Windows 11 customization articles
+- Notes from the development process
 
-Thanks for stopping by. 🌿
+Some posts will be written for existing users. Others will be useful for people searching for ways to improve their Windows 11 setup, especially around multi-monitor wallpapers, lock screen customization, tray menus, and desktop workflow shortcuts.
 
----
+## What comes next?
 
-*Got a question or suggestion? Reach out on [GitHub](https://github.com/LumoTray) or grab the app on the [Microsoft Store](https://apps.microsoft.com/detail/9nwsvm0n0dvc).*
+LumoTray is currently on **v2.0.5**, with version 2 bringing a much stronger foundation for wallpapers, custom menus, and modern Windows 11 desktop customization.
+
+The goal for this blog is simple: make updates easier to follow, make features easier to discover, and give the project a better long-term home for documentation and useful articles.
+
+If you are new here, you can download LumoTray from the [Microsoft Store](https://apps.microsoft.com/detail/9nwsvm0n0dvc) or visit the main site at [lumotray.com](https://lumotray.com/).
+
+Thanks for reading.
