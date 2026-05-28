@@ -220,7 +220,8 @@ a:hover { color: #008a9a; }
   padding: clamp(1.5rem, 4vw, 2.5rem);
 }
 
-.page-card {
+.page-card,
+.post-wrapper {
   max-width: 850px;
   margin: 0 auto;
 }

@@ -16,9 +16,14 @@
     </nav>
 
     <div class="blog-hero-content text-light text-center">
+      {% if page.layout == 'post' %}
+      <h1>{{ page.title | escape }}</h1>
+      <p class="lead">{{ page.date | date: "%B %-d, %Y" }}</p>
+      {% else %}
       <p class="eyebrow">LumoTray Blog</p>
       <h1>{{ page.hero_title | default: site.title }}</h1>
       <p class="lead">{{ page.hero_subtitle | default: site.description }}</p>
+      {% endif %}
     </div>
   </div>
 </header>
