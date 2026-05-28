@@ -21,7 +21,7 @@
 title: LumoTray Blog
 email: hello@lumotray.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the blog for LumoTray, the Windows tray app.
+  Dev updates, release notes, and practical Windows 11 customization tips from LumoTray.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.lumotray.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LumoTray

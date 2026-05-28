@@ -33,7 +33,7 @@ On this blog you'll find:
 
 ## What's next?
 
-LumoTray is on **v2.0.3** and already doing a lot, but there's always more to explore. Keep an eye on this space for updates, and if you have ideas or feedback — I'd love to hear them.
+LumoTray is on **v2.0.5** and already doing a lot, but there's always more to explore. Keep an eye on this space for updates, and if you have ideas or feedback — I'd love to hear them.
 
 Thanks for stopping by. 🌿
 

@@ -1,20 +1,24 @@
-<header class="site-header">
+<header class="blog-hero">
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-dark">
-      <a class="navbar-brand" href="https://lumotray.com" target="_blank">
-        <img src="/assets/gfx/lumotray.png" alt="LumoTray" width="32" height="32">
-        <span class="ms-2 fw-semibold">LumoTray Blog</span>
+    <nav class="navbar navbar-dark navbar-expand-sm fw-semibold">
+      <a class="navbar-brand d-flex align-items-center ps-md-4" href="https://lumotray.com/">
+        <img src="https://lumotray.com/assets/gfx/lumotray.png" class="me-2" width="50" height="50" alt="LumoTray">
+        <span class="brand-title">LumoTray</span>
       </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#blogNav" aria-controls="blogNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="blogNav">
-        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link" href="https://lumotray.com" target="_blank">Home ↗</a>
-          </li>
+      <div class="ms-auto d-none d-md-block" id="navbarContent">
+        <ul id="nav" class="navbar-nav navbar-dark ms-auto me-5">
+          <li class="nav-item"><a href="https://lumotray.com/" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="https://lumotray.com/#overview" class="nav-link">Overview</a></li>
+          <li class="nav-item"><a href="https://lumotray.com/#license" class="nav-link">Buy</a></li>
+          <li class="nav-item"><a href="{{ '/' | relative_url }}" class="nav-link active">Blog</a></li>
         </ul>
       </div>
     </nav>
+
+    <div class="blog-hero-content text-light text-center">
+      <p class="eyebrow">LumoTray Blog</p>
+      <h1>{{ page.hero_title | default: site.title }}</h1>
+      <p class="lead">{{ page.hero_subtitle | default: site.description }}</p>
+    </div>
   </div>
 </header>

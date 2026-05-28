@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+hero_title: "LumoTray Blog"
+hero_subtitle: "Dev updates, release notes, and useful Windows 11 customization tips from the LumoTray project."
 ---
