@@ -3,6 +3,7 @@ layout: post
 title: "How to Set Different Wallpapers on Multiple Monitors in Windows 11"
 date: 2026-06-19 12:30:00 +0000
 category: tips
+image: /assets/gfx/screenshots/wp_dual_webpage.png
 ---
 
 Windows 11 can handle a basic multi-monitor wallpaper setup, but it gets awkward as soon as you want more than one static picture.
