@@ -134,7 +134,7 @@ Use LumoTray if:
 - You want a slideshow on only one screen.
 - You want live or source-based wallpapers.
 - You want a system tray tool instead of digging through Settings.
-- You also want lock screen images, screensavers, hot corners, or a custom tray menu in the same app.
+- You also want lock screen images, screensavers, [hot corners](https://blog.lumotray.com/tips/how-to-add-hot-corners-to-windows-11/), or a custom tray menu in the same app.
 
 ## Quick troubleshooting notes
 

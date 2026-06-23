@@ -114,14 +114,14 @@ LumoTray handles multi-monitor desktop geometry because it was built for multi-m
 
 ## Combining hot corners with other LumoTray features
 
-The advantage of a single all-in-one tool is that features work together without extra setup.
+The advantage of a single all-in-one tool is that features work together without extra setup. If you are already using LumoTray for [multi-monitor wallpapers](https://blog.lumotray.com/tips/how-to-set-different-wallpapers-on-multiple-monitors-windows-11/), the hot corners page is right there in the same app.
 
 A few combos worth mentioning:
 
 - **Hot corner to show desktop + LumoTray wallpaper modes.** Trigger a quick desktop peek and see your custom wallpaper setup on every monitor.
 - **Hot corner to lock PC + LumoTray lock screen images.** Lock the machine with a corner flick, and the lock screen shows the image you picked in LumoTray rather than the Windows default.
 - **Hot corner to start screensaver + LumoTray screensaver modes.** Push into a corner to fire a clock, Matrix, or slideshow screensaver on a spare monitor.
-- **Hot corner to launch app + custom tray menu.** Use a corner for a frequent app, and keep everything else in a [custom tray menu](https://blog.lumotray.com/tips/how-to-set-different-wallpapers-on-multiple-monitors-windows-11/). Different workflows, both accessible fast.
+- **Hot corner to launch app + custom tray menu.** Use a corner for a frequent app, and keep everything else in a custom tray menu (coming soon). Different workflows, both accessible fast.
 
 ## A couple of practical caveats
 
