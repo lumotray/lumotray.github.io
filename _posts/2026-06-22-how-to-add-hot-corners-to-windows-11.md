@@ -121,7 +121,7 @@ A few combos worth mentioning:
 - **Hot corner to show desktop + LumoTray wallpaper modes.** Trigger a quick desktop peek and see your custom wallpaper setup on every monitor.
 - **Hot corner to lock PC + LumoTray lock screen images.** Lock the machine with a corner flick, and the lock screen shows the image you picked in LumoTray rather than the Windows default.
 - **Hot corner to start screensaver + LumoTray screensaver modes.** Push into a corner to fire a clock, Matrix, or slideshow screensaver on a spare monitor.
-- **Hot corner to launch app + custom tray menu.** Use a corner for a frequent app, and keep everything else in a custom tray menu (coming soon). Different workflows, both accessible fast.
+- **Hot corner to launch app + custom tray menu.** Use a corner for a frequent app, and keep everything else in a [custom tray menu](https://blog.lumotray.com/tips/how-to-create-a-custom-tray-menu-for-apps-files-and-scripts/). Different workflows, both accessible fast.
 
 ## A couple of practical caveats
 

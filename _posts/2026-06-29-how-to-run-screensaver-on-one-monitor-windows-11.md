@@ -129,6 +129,6 @@ Windows 11 will not add per-monitor screensaver support any time soon. The offic
 
 PowerToys 0.99 added monitor controls to the system tray -- a clear signal that Microsoft sees value in tray-based multi-monitor tools -- but it skips screensavers entirely.
 
-LumoTray gives you per-monitor screensaver modes alongside [multi-monitor wallpaper](/tips/how-to-set-different-wallpapers-on-multiple-monitors-windows-11/), [hot corners](/tips/how-to-add-hot-corners-to-windows-11/), lock screen customization, and custom tray menus. If you already want better desktop personalization on Windows 11, the screensaver feature fits into a workflow you are already using.
+LumoTray gives you per-monitor screensaver modes alongside [multi-monitor wallpaper](/tips/how-to-set-different-wallpapers-on-multiple-monitors-windows-11/), [hot corners](/tips/how-to-add-hot-corners-to-windows-11/), lock screen customization, and [custom tray menus](/tips/how-to-create-a-custom-tray-menu-for-apps-files-and-scripts/). If you already want better desktop personalization on Windows 11, the screensaver feature fits into a workflow you are already using.
 
 <a href="https://lumotray.com/download/blog_post_screensaver_one_monitor" class="btn btn-primary">Get LumoTray</a>

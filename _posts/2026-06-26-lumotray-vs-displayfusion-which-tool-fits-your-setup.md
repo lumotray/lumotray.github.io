@@ -34,7 +34,7 @@ LumoTray is a desktop personalization tool for Windows 11. It lives in the syste
 
 **Hot corners.** Push the mouse into a screen corner to lock the PC, show the desktop, open Task View, start a screen saver, launch an app, or run a command. macOS has shipped this for years. Windows 11 has not. LumoTray adds it.
 
-**Custom tray menus.** Build a custom menu that pops up from the tray icon. Add apps, files, folders, scripts, and separators. Useful for quick-launch workflows without cluttering the taskbar or desktop.
+**Custom tray menus.** Build a [custom menu](https://blog.lumotray.com/tips/how-to-create-a-custom-tray-menu-for-apps-files-and-scripts/) that pops up from the tray icon. Add apps, files, folders, scripts, and separators. Useful for quick-launch workflows without cluttering the taskbar or desktop.
 
 **Lock screen customisation.** Set a custom lock screen image or use a Windows Spotlight image as your lock screen background through LumoTray.
 
@@ -113,7 +113,7 @@ A Neowin article noted that DisplayFusion 10.0 "gains full Windows 11 support, b
 
 **Pick LumoTray if:**
 
-- You want a lightweight tray app that handles wallpaper, screen savers, hot corners, lock screen, and custom menus in one place.
+- You want a lightweight tray app that handles wallpaper, screen savers, hot corners, lock screen, and [custom menus](https://blog.lumotray.com/tips/how-to-create-a-custom-tray-menu-for-apps-files-and-scripts/) in one place.
 - You use diverse wallpaper sources (Unsplash, APOD, Bing, Matrix, Hexells, video, webpages).
 - You want screen saver modes without hunting for .scr files.
 - You want hot corners that work without scripting.
