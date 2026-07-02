@@ -34,4 +34,4 @@ LumoTray 2.2.0 is here with two new wallpaper modes, video support for the Matri
 
 ## Get it
 
-The update is live on the Microsoft Store and should install automatically with automatic updates enabled. Otherwise, grab it directly from here](https://lumotray.com/download/blog_post_2_2_0).
+The update is live on the Microsoft Store and should install automatically with automatic updates enabled. Otherwise, [grab it directly from here](https://lumotray.com/download/blog_post_2_2_0).
