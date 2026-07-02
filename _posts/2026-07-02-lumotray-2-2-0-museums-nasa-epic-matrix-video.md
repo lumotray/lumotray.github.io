@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LumoTray 2.2.0: Museums Mode, NASA EPIC, and Matrix Video Support"
-date: 2026-07-02 10:20:00 +0000
+date: 2026-07-02 09:50:00 +0000
 category: update
 ---
 
