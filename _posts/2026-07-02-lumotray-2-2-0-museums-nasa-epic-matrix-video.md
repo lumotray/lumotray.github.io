@@ -11,19 +11,18 @@ LumoTray 2.2.0 is here with two new wallpaper modes, video support for the Matri
 
 **Museums mode.** A new wallpaper source that pulls random paintings and sculptures from museums around the world. Each refresh brings a new piece -- paintings, sculptures, artifacts -- straight to your desktop. Works for wallpapers, lockscreen, and fullscreen/screensaver modes.
 
-<!-- SCREENSHOT: Museums mode in action on desktop, showing a famous painting as wallpaper -->
+![Screenshot showing Museums mode displaying a famous painting as wallpaper in LumoTray](/assets/gfx/screenshots/ss_museums.png)
 
 **NASA EPIC mode.** Live Earth imagery from NASA's Earth Polychromatic Imaging Camera aboard the DSCOVR satellite. You get the latest full-disc image of Earth, or a timelapse spanning up to 7 days. Also available across wallpaper, lockscreen, and screensaver modes.
 
-<!-- SCREENSHOT: NASA EPIC showing the blue marble Earth image as wallpaper -->
+![Screenshot showing NASA EPIC mode with Earth imagery as wallpaper in LumoTray](/assets/gfx/screenshots/ss_nasaepic.png)
 
 **Matrix effect now supports videos.** You can now layer the Matrix code rain effect over a video of your choice -- mp4, webm, any format LumoTray already handles for live wallpapers. Pick a clip and the green rain runs on top.
 
-<!-- SCREENSHOT: Matrix effect running over a video, showing the combination of code rain + video background -->
+![Screenshot showing the Matrix code rain effect layered over a video background in LumoTray](/assets/gfx/screenshots/ss_matrixvideo.png)
 
 **Per-display screensaver prevention.** A new per-monitor toggle lets you block screensavers from starting automatically while a fullscreen app, game, video, or presentation is active on that display. No more screensaver kicking in during a movie on your secondary monitor while you work on the main one.
 
-<!-- SCREENSHOT: The new per-display screensaver prevention toggle in the UI -->
 
 ## What's improved
 
