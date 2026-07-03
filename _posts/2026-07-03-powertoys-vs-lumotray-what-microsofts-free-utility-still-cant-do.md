@@ -87,12 +87,6 @@ I use both on a two-monitor Windows 11 setup. PowerToys handles FancyZones windo
 **You probably want both if:**
 - You run multiple monitors and care about both productivity (window layout, monitor control) and how your screens actually look (wallpaper, screensavers).
 
-## Price
-
-PowerToys is free and open source, maintained by Microsoft. It is a no-brainer download for any Windows power user.
-
-LumoTray is [$19 from the Microsoft Store](https://lumotray.com/download/blog_post_powertoys_vs_lumotray) with a free trial. One purchase, no subscription, works on up to 10 devices.
-
 ## Bottom line
 
 PowerToys covers the "how do I control my monitors and windows" side of multi-monitor life. LumoTray covers the "what is actually displayed on those monitors" side. They are built for different jobs, and Microsoft's own product decisions -- treating wallpaper and screensavers as a personalization layer they are not expanding -- suggest they will stay that way.
