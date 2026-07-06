@@ -11,7 +11,12 @@
           <li class="nav-item"><a href="https://lumotray.com/#overview" class="nav-link">Overview</a></li>
           <li class="nav-item"><a href="https://lumotray.com/buy" class="nav-link">Buy</a></li>
           <li class="nav-item"><a href="{{ '/' | relative_url }}" class="nav-link active">Blog</a></li>
-          <li class="nav-item"><a href="https://lumotray.com/download/navblog" class="ms-1 btn btn-info fw-bold">Download</a></li>
+          <li class="nav-item"><a href="https://lumotray.com/download/navblog"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'navblog',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=navblog',
+ transport_type: 'beacon'
+ })" class="ms-1 btn btn-info fw-bold">Download</a></li>
         </ul>
       </div>
     </nav>

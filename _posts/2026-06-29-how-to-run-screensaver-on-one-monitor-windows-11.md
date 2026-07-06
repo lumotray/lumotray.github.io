@@ -131,4 +131,9 @@ PowerToys 0.99 added monitor controls to the system tray -- a clear signal that 
 
 LumoTray gives you per-monitor screensaver modes alongside [multi-monitor wallpaper](/tips/how-to-set-different-wallpapers-on-multiple-monitors-windows-11/), [hot corners](/tips/how-to-add-hot-corners-to-windows-11/), lock screen customization, and [custom tray menus](/tips/how-to-create-a-custom-tray-menu-for-apps-files-and-scripts/). If you already want better desktop personalization on Windows 11, the screensaver feature fits into a workflow you are already using.
 
-<a href="https://lumotray.com/download/blog_post_screensaver_one_monitor" class="btn btn-primary">Get LumoTray</a>
+<a href="https://lumotray.com/download/blog_post_screensaver_one_monitor"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'blog_post_screensaver_one_monitor',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_screensaver_one_monitor',
+ transport_type: 'beacon'
+ })" class="btn btn-primary">Get LumoTray</a>

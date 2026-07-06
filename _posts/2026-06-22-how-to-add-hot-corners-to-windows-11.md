@@ -137,4 +137,9 @@ Windows 11 does not have hot corners. You can add them with a script, a dedicate
 
 If you already use LumoTray for wallpaper management or custom tray menus, the hot corners page is already there waiting. If you are just looking for hot corners, any of the tools mentioned above will do the job. Pick the one that matches how much tinkering you want to do.
 
-[Download LumoTray](https://lumotray.com/download/blog_post_hot_corners_windows_11) and head to the Hot Corners page to try it.
+<a href="https://lumotray.com/download/blog_post_hot_corners_windows_11"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'blog_post_hot_corners_windows_11',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_hot_corners_windows_11',
+ transport_type: 'beacon'
+ })">Download LumoTray</a> and head to the Hot Corners page to try it.

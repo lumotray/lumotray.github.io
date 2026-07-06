@@ -133,6 +133,11 @@ Windows 11 removed taskbar toolbars and never added a custom tray menu. The gap 
 
 LumoTray's approach is different: a custom tray menu that lives alongside wallpaper management, screensaver modes, lock screen images, and hot corners -- all from one tray icon, one installer, one $19 license. If you want a tray launcher and nothing else, pick a dedicated tool. If you want a tray launcher that shares an icon with the rest of your desktop customization setup, LumoTray does that.
 
-[Download LumoTray](https://lumotray.com/download/blog_post_custom_tray_menu) and head to the Menu page to build your menu.
+<a href="https://lumotray.com/download/blog_post_custom_tray_menu"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'blog_post_custom_tray_menu',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_custom_tray_menu',
+ transport_type: 'beacon'
+ })">Download LumoTray</a> and head to the Menu page to build your menu.
 
 **Competitors mentioned:** TaskFolder, Trayy 3.1, SystemTrayMenu, naxl/tray, Microsoft Store Tray Launcher, FlashTray Pro 5. All are tray-launcher-only tools. LumoTray is the only one that adds wallpaper, screensaver, lock screen, and hot corner management to the same tray icon.

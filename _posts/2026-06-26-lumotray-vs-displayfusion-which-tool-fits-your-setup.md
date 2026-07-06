@@ -131,4 +131,9 @@ This comparison covers the current state of both tools as of late June 2026. Bot
 
 If you are comparing tools for a multi-monitor setup, also check whether PowerToys FancyZones covers your window management needs and whether [Windows 11's built-in wallpaper tools](https://blog.lumotray.com/tips/how-to-set-different-wallpapers-on-multiple-monitors-windows-11/) already do enough. Then decide what is still missing and pick the tool that fills the gap.
 
-[Download LumoTray](https://lumotray.com/download/blog_post_lumotray_vs_displayfusion) from the Microsoft Store or the LumoTray website.
+<a href="https://lumotray.com/download/blog_post_lumotray_vs_displayfusion"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'blog_post_lumotray_vs_displayfusion',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_lumotray_vs_displayfusion',
+ transport_type: 'beacon'
+ })">Download LumoTray</a> from the Microsoft Store or the LumoTray website.

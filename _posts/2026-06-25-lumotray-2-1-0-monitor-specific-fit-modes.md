@@ -23,4 +23,9 @@ LumoTray 2.1.0 is out. This one focuses on multi-monitor flexibility -- the most
 
 ## Get it
 
-The update is live on the Microsoft Store and should install automatically if you have automatic updates turned on. Otherwise, grab it from the [download page](https://lumotray.com/download/blog_post_2_1_0).
+The update is live on the Microsoft Store and should install automatically if you have automatic updates turned on. Otherwise, <a href="https://lumotray.com/download/blog_post_2_1_0"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'blog_post_2_1_0',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_2_1_0',
+ transport_type: 'beacon'
+ })">grab it here</a>.

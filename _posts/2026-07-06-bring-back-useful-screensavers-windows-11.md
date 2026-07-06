@@ -151,4 +151,9 @@ If you have been putting up with Bubbles since 2001, there are better options no
 
 ---
 
-**[Get LumoTray for Windows 11](https://lumotray.com/download/blog_post_useful_screensavers_windows_11)**
+<strong><a href="https://lumotray.com/download/blog_post_useful_screensavers_windows_11"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'blog_post_useful_screensavers_windows_11',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_useful_screensavers_windows_11',
+ transport_type: 'beacon'
+ })">Get LumoTray for Windows 11</a></strong>

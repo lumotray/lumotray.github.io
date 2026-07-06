@@ -43,6 +43,11 @@ LumoTray is currently on **v2.0.5**, with version 2 bringing a much stronger fou
 
 The goal for this blog is simple: make updates easier to follow, make features easier to discover, and give the project a better long-term home for documentation and useful articles.
 
-If you are new here, you can download LumoTray from the [Microsoft Store](https://apps.microsoft.com/detail/9nwsvm0n0dvc) or visit the main site at [lumotray.com](https://lumotray.com/).
+If you are new here, you can <a href="https://lumotray.com/download/blog_post_welcome"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'blog_post_welcome',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_welcome',
+ transport_type: 'beacon'
+ })">download LumoTray</a> or visit the main site at [lumotray.com](https://lumotray.com/).
 
 Thanks for reading.

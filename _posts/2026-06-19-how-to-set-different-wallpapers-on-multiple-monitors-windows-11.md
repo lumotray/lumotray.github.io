@@ -148,4 +148,9 @@ If Windows or any wallpaper app keeps applying the wrong image to the wrong moni
 
 Multi-monitor wallpapers sound simple until the setup changes. Once you have different screen sizes, different sources, and different jobs for each display, a dedicated control panel saves time.
 
-If you want that control from the tray, [download LumoTray](https://lumotray.com/download/blog_post_multi_monitor_wallpapers) and try the Wallpaper page first. It is the quickest way to see whether the app fits your setup.
+If you want that control from the tray, <a href="https://lumotray.com/download/blog_post_multi_monitor_wallpapers"
+ onclick="gtag('event', 'store_download_click', {
+ download_cid: 'blog_post_multi_monitor_wallpapers',
+ destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_multi_monitor_wallpapers',
+ transport_type: 'beacon'
+ })">download LumoTray</a> and try the Wallpaper page first. It is the quickest way to see whether the app fits your setup.
