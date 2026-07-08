@@ -108,7 +108,7 @@ For everything else -- daily desktop wallpaper from high-quality sources, per-mo
 
 ---
 
-LumoTray is a Windows desktop customization app that handles wallpaper management, [screensavers](/tips/bring-back-useful-screensavers-windows-11/), [hot corners](/tips/how-to-add-hot-corners-to-windows-11/), and [custom tray menus](/tips/how-to-create-a-custom-tray-menu-for-apps-files-and-scripts/). It works on Windows 10 and Windows 11, supports multiple monitors, and costs $19 with a free trial.
+LumoTray is a Windows desktop customization app that handles wallpaper management, [screensavers](/tips/bring-back-useful-screensavers-windows-11/), [hot corners](/tips/how-to-add-hot-corners-to-windows-11/), and [custom tray menus](/tips/how-to-create-a-custom-tray-menu-for-apps-files-and-scripts/). It works on Windows 10 and Windows 11 and supports multiple monitors.
 
 <a href="https://lumotray.com/download/blog_post_spotlight_alternative"
  onclick="gtag('event', 'store_download_click', {
