@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Set Up Different Wallpaper Slideshows on Each Monitor in Windows 11"
-date: 2026-07-15 12:30:00 +0000
+date: 2026-07-15 05:00:00 +0000
 category: tips
 image: /assets/gfx/screenshots/wp_page_slideshow.png
 ---
