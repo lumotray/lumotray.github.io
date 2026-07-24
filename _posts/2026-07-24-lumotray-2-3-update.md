@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LumoTray 2.3 and 2.3.1: A Quick Update"
-date: 2026-07-24 16:50:00 +0000
+date: 2026-07-24 16:45:00 +0000
 category: update
 ---
 
