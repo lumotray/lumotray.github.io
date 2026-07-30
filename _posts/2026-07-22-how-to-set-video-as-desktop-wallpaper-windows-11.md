@@ -75,13 +75,8 @@ And if you ever want to switch back to a daily photo feed or a static image, you
 
 Ready to set a video as your desktop wallpaper? LumoTray is available from the Microsoft Store.
 
-<a href="https://lumotray.com/download/blog_post_video_wallpaper_windows_11"
-   class="download-button"
-   onclick="gtag('event', 'store_download_click', {
-     download_cid: 'blog_post_video_wallpaper_windows_11',
-     destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_video_wallpaper_windows_11',
-     transport_type: 'beacon'
-   })">
+<a href="https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_video_wallpaper_windows_11"
+   class="download-button">
   Download LumoTray from the Microsoft Store
 </a>
 

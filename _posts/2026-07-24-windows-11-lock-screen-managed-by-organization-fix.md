@@ -90,11 +90,6 @@ The "managed by your organization" lock screen bug has been kicking around since
 
 If you are stuck with a Christmas picture in July, or a greyed-out lock screen settings page that will not let you change anything, LumoTray's Lockscreen Manager gives you back control without registry spelunking, without a repair install, and without hoping that the next Windows update magically fixes it.
 
-<a href="https://lumotray.com/download/blog_post_lock_screen_managed_by_organization"
- onclick="gtag('event', 'store_download_click', {
- download_cid: 'blog_post_lock_screen_managed_by_organization',
- destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_lock_screen_managed_by_organization',
- transport_type: 'beacon'
- })">
+<a href="https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_lock_screen_managed_by_organization">
  Download LumoTray from the Microsoft Store
 </a>

@@ -59,13 +59,8 @@ If you run multiple monitors on Windows 11, you have probably already accepted t
 
 If you have been dealing with Windows 11 wallpaper limitations, LumoTray is available from the Microsoft Store.
 
-<a href="https://lumotray.com/download/blog_post_taskbar_26h2_wallpapers"
-   class="download-button"
-   onclick="gtag('event', 'store_download_click', {
-     download_cid: 'blog_post_taskbar_26h2_wallpapers',
-     destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_taskbar_26h2_wallpapers',
-     transport_type: 'beacon'
-   })">
+<a href="https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_taskbar_26h2_wallpapers"
+   class="download-button">
   Download LumoTray from the Microsoft Store
 </a>
 

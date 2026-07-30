@@ -27,9 +27,4 @@ LumoTray 2.3.2 is now available on the Microsoft Store. This release is a focuse
 
 ## Get it
 
-The update is live on the Microsoft Store. If you have automatic updates enabled, it should install on its own. Otherwise, <a href="https://lumotray.com/download/blog_post_2_3_2"
- onclick="gtag('event', 'store_download_click', {
- download_cid: 'blog_post_2_3_2',
- destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_2_3_2',
- transport_type: 'beacon'
- })">grab it directly from here</a>.
+The update is live on the Microsoft Store. If you have automatic updates enabled, it should install on its own. Otherwise, <a href="https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_2_3_2">grab it directly from here</a>.

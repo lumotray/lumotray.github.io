@@ -130,9 +130,4 @@ Use a dedicated tool like LumoTray if:
 
 Independent per-monitor slideshows are one of those features that sounds niche until you have a multi-monitor desk. Once you have set it up properly, you stop thinking about it. That is the whole point.
 
-<a href="https://lumotray.com/download/blog_post_per_monitor_slideshow"
- onclick="gtag('event', 'store_download_click', {
- download_cid: 'blog_post_per_monitor_slideshow',
- destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_per_monitor_slideshow',
- transport_type: 'beacon'
- })">Download LumoTray</a> and go to the Wallpaper page. Pick a monitor, pick a slideshow folder, and see if it fits your setup.
+<a href="https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_per_monitor_slideshow">Download LumoTray</a> and go to the Wallpaper page. Pick a monitor, pick a slideshow folder, and see if it fits your setup.

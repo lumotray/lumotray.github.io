@@ -69,12 +69,7 @@ This bug is not a one-off. Windows' personalization infrastructure has accumulat
 
 If you use virtual desktops heavily and care about your desktop wallpaper, the safest long-term approach is to keep wallpaper management separate from Windows' built-in personalization layer. That way, the next time a cumulative update breaks something in the virtual desktop wallpaper stack, you will not be the one filing the Q&A thread.
 
-<a href="https://lumotray.com/download/blog_post_virtual_desktop_wallpaper"
- onclick="gtag('event', 'store_download_click', {
- download_cid: 'blog_post_virtual_desktop_wallpaper',
- destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_virtual_desktop_wallpaper',
- transport_type: 'beacon'
- })">
+<a href="https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_virtual_desktop_wallpaper">
  Get LumoTray from the Microsoft Store
 </a>
 

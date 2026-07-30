@@ -147,9 +147,4 @@ They are not really competitors. They are complementary tools for different part
 
 If the answer is personalization -- wallpapers, screen savers, hot corners, tray menus -- LumoTray is the tool for that job. If the answer is utility -- cursor control, window hotkeys, screen swapping -- Dual Monitor Tools does that well.
 
-<a href="https://lumotray.com/download/blog_post_dmt_vs_lumotray"
- onclick="gtag('event', 'store_download_click', {
- download_cid: 'blog_post_dmt_vs_lumotray',
- destination_url: 'https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_dmt_vs_lumotray',
- transport_type: 'beacon'
- })">Download LumoTray</a> from the Microsoft Store or the LumoTray website.
+<a href="https://get.microsoft.com/installer/download/9nwsvm0n0dvc?CID=blog_post_dmt_vs_lumotray">Download LumoTray</a> from the Microsoft Store or the LumoTray website.
